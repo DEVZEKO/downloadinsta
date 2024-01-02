@@ -6,28 +6,28 @@ import { cn } from "@/utils";
 
 const FEATURES_LIST = [
   {
-    title: "Fast and Reliable",
-    text: "Our reliable service ensures you get your videos without interruptions.",
+    title: "سريع وموثوق",
+    text: "تضمن خدمتنا الموثوقة حصولك على مقاطع الفيديو الخاصة بك دون انقطاع.",
   },
   {
-    title: "High-Quality Downloads",
-    text: "Download Instagram videos in the highest available quality.",
+    title: "تنزيلات عالية الجودة",
+    text: "قم بتنزيل مقاطع فيديو انستغرام بأعلى جودة متاحة.",
   },
   {
-    title: "User-Friendly Interface",
-    text: "No technical expertise required—just a few simple clicks.",
+    title: "واجهة سهلة الاستخدام",
+    text: "لا توجد حاجة إلى خبرة فنية، فقط بضع نقرات بسيطة.",
   },
   {
-    title: "No Registration Required",
-    text: "No need to create an account or log in.",
+    title: "لا يتطلب التسجيل",
+    text: "لا حاجة لإنشاء حساب أو تسجيل الدخول.",
   },
   {
-    title: "Unlimited Downloads",
-    text: "Download as many Instagram videos as you want, with no restrictions.",
+    title: "تنزيلات غير محدودة",
+    text: "قم بتنزيل أي عدد تريده من مقاطع فيديو انستغرام، دون أي قيود.",
   },
   {
-    title: "Supports Multiple Platforms",
-    text: "Compatible with various devices and platforms, including Windows, macOS, Android, and iOS.",
+    title: "يدعم منصات متعددة",
+    text: "متوافق مع مختلف الأجهزة والأنظمة الأساسية، بما في ذلك Windows وmacOS وAndroid وiOS.",
   },
 ];
 
