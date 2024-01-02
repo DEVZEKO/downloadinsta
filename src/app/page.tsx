@@ -32,15 +32,14 @@ const FEATURES_LIST = [
 ];
 
 const BENEFITS_LIST = [
-  "Download Instagram videos to back up your content.",
-  "Download Instagram videos to preserve your memories",
-  "Create your own video compilations using Instagram videos that you download.",
-  "Download Instagram videos for research purposes, such as studying a particular trend or social phenomenon.",
-  "Save your favorite Instagram videos to your device so you can watch them offline or share them with others.",
-  "Use Instagram videos for your own creative projects, such as making YouTube videos or creating presentations.",
-  "Download Instagram videos for educational purposes, such as learning about a new skill or watching a historical event.",
+"قم بتنزيل مقاطع فيديو Instagram لعمل نسخة احتياطية من المحتوى الخاص بك.",
+"تنزيل فيديوهات الانستقرام للاحتفاظ بذكرياتك"، 
+"قم بإنشاء مجموعات الفيديو الخاصة بك باستخدام مقاطع فيديو Instagram التي تقوم بتنزيلها.", 
+"قم بتنزيل مقاطع فيديو Instagram لأغراض بحثية، مثل دراسة اتجاه معين أو ظاهرة اجتماعية.", 
+"احفظ مقاطع فيديو Instagram المفضلة لديك على جهازك حتى تتمكن من مشاهدتها دون الاتصال بالإنترنت أو مشاركتها مع الآخرين.", 
+"استخدم مقاطع فيديو Instagram لمشاريعك الإبداعية، مثل إنشاء مقاطع فيديو على YouTube أو إنشاء عروض تقديمية.", 
+"قم بتنزيل مقاطع فيديو Instagram للأغراض التعليمية، مثل التعرف على مهارة جديدة أو مشاهدة حدث تاريخي.", 
 ];
-
 const FAQ_LIST = [
   {
     question: "Is this website free?",
